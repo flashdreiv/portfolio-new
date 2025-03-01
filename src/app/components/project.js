@@ -30,7 +30,7 @@ const Project = () => {
       <ul className="flex flex-col gap-[20px] xs:gap-[10px]">
         {projectList.map((project, index) => (
           <li key={index} className="flex flex-col md:gap-[10px]">
-            <p className="lg:text-7xl tracking-tighter  md:font-thin xs:text-md md:text-4xl text-right rtl xs:font-extralight">
+            <p className="lg:text-7xl tracking-tighter  md:font-thin xs:text-2xl md:text-4xl text-right rtl xs:font-extralight">
               {index % 2 === 0
                 ? project.title.toUpperCase()
                 : project.title.toLowerCase()}

@@ -1,6 +1,6 @@
 const Home = () => {
   return (
-    <div className="fade-in font-bold xs:text-xs xs:absolute right-10 bottom-10  md:text-sm">
+    <div className="fade-in font-bold xs:text-xs xs:absolute right-10 bottom-10  md:text-base">
       <p>Building the web</p>
       <p>with precision.</p>
       <p>I explore</p>

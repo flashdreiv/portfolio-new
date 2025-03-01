@@ -51,7 +51,7 @@ export default function Index() {
               {navList.map((navItem) => (
                 <li key={navItem}>
                   <button onClick={() => handleSelectNav(navItem)}>
-                    <p className="flex items-center gap-[5px] xs:text-xs hover:opacity-50 md:text-sm font-bold lg:text-xs">
+                    <p className="flex items-center gap-[5px] xs:text-base hover:opacity-50 md:text-sm font-bold lg:text-base">
                       {navItem === content ? <span>●</span> : navItem}
                     </p>
                   </button>
