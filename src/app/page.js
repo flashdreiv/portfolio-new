@@ -59,7 +59,7 @@ export default function Index() {
               ))}
             </ul>
           </nav>
-          <main className={`${content === "Projects" ? "z-[-1]" : ""} ml-auto`}>
+          <main className={`${content === "Projects" ? "z-10" : ""} ml-auto`}>
             {content === "Projects" ? (
               <LocomotiveScrollProvider
                 options={{
