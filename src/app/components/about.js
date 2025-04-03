@@ -8,7 +8,7 @@ const About = () => {
     },
     {
       title: "Upwork",
-      href: "https://www.upwork.com/freelancers/~01168a65a459e31b45?mp_source=share",
+      href: "https://www.upwork.com/freelancers/~01168a65a459e31b45?viewMode=1",
     },
     {
       title: "Resume",

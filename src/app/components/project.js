@@ -2,19 +2,19 @@ import Link from "next/link";
 const Project = () => {
   const projectList = [
     {
-      title: "E-learning",
-      caption: "Full Stack / ReactJS / Python",
-      link: "#",
-    },
-    {
-      title: "Attendance Monitoring",
-      caption: "Full Stack / ReactJS / Express",
-      link: "#",
+      title: "Sales Monitoring",
+      caption: "Full Stack / VanillaJS / Python",
+      link: "https://fis-255485883422.us-central1.run.app",
     },
     {
       title: "Ecommerce",
       caption: "Full Stack / ReactJS / Python",
-      link: "#",
+      link: "https://e-commerce-255485883422.us-central1.run.app",
+    },
+    {
+      title: "E-learning",
+      caption: "Full Stack / ReactJS / Python",
+      link: "https://jocular-pixie-75b8d5.netlify.app/",
     },
     {
       title: "Github Issue Page Clone",
@@ -22,14 +22,19 @@ const Project = () => {
       link: "https://funny-otter-ced3ad.netlify.app/",
     },
     {
-      title: "Sales Monitoring",
-      caption: "Full Stack / VanillaJS / Python",
-      link: "#",
-    },
-    {
       title: "Open Sea Bot Uploader",
       caption: "Desktop / Python",
-      link: "#",
+      link: "https://flashdreiv.github.io/videos/opensea_bot.webm",
+    },
+    {
+      title: "Payment Bridge",
+      caption: "ReactJS ",
+      link: "https://www.upwork.com/freelancers/~01168a65a459e31b45?p=1502513320760922112",
+    },
+    {
+      title: "Attendance Monitoring",
+      caption: "Full Stack / ReactJS / Express",
+      link: "https://flashdreiv.github.io/videos/hris.mov",
     },
   ];
 
