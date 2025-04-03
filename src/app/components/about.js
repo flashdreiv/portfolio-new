@@ -12,7 +12,7 @@ const About = () => {
     },
     {
       title: "Resume",
-      href: "https://www.upwork.com/freelancers/~01f4e4c3d3c1c8e3a3",
+      href: "https://docs.google.com/document/d/1z198cS5DRhcGuCdszQ-tsjwDgkBI2v6z/",
     },
   ];
   return (
